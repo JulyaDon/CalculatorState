@@ -11,7 +11,7 @@ namespace CalculatorState
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Glad to see you at my calculator! Write 'exit' to finish.");
+            Console.WriteLine("Glad to see you at my calculator! Write 'e' to finish.");
             Context calc = new Context();
             while (true)
             {
